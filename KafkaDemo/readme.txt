@@ -1,0 +1,2 @@
+console中先创建topic，再开启一个producer，再开启一个consumer，此时再producer中发送消息便可在consumer中接收，同时可开启多个producer；
+java中先运行consumer，后运行producer
